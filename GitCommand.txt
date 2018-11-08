@@ -1,0 +1,8 @@
+#Ajoute le repertoire.
+git add .
+
+#Nom du script
+git commit -m "Ajout du premier script"
+
+#Mettre a jour le fichier sur GIT
+git push -u origin master
